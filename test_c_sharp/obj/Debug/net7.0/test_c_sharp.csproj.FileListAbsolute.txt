@@ -1,0 +1,15 @@
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\bin\Debug\net7.0\test_c_sharp.exe
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\bin\Debug\net7.0\test_c_sharp.deps.json
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\bin\Debug\net7.0\test_c_sharp.runtimeconfig.json
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\bin\Debug\net7.0\test_c_sharp.dll
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\bin\Debug\net7.0\test_c_sharp.pdb
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\test_c_sharp.csproj.AssemblyReference.cache
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\test_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\test_c_sharp.AssemblyInfoInputs.cache
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\test_c_sharp.AssemblyInfo.cs
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\test_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\test_c_sharp.dll
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\refint\test_c_sharp.dll
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\test_c_sharp.pdb
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\test_c_sharp.genruntimeconfig.cache
+C:\Users\yernu\Desktop\pet_projects\test_c_sharp\obj\Debug\net7.0\ref\test_c_sharp.dll
